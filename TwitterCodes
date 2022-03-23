@@ -1,4 +1,5 @@
-[	{
+[	
+	{
 		"RewardType": "Booster",
 		"Code": "PlsFixDataloss",
 		"Data": {
@@ -6,6 +7,16 @@
 			"BoosterName": "Exp"
 		},
 		"AwardMessage": "Free Exp Boost for 3 HOURS!",
+		"ReedemOnce": true
+	},
+	{
+		"RewardType": "Currency",
+		"Code": "GimmeMoney",
+		"Data": {
+			"Type": "Coins",
+			"Amount": 1515
+		},
+		"AwardMessage": "Coins given",
 		"ReedemOnce": true
 	}
 ]
