@@ -1,10 +1,12 @@
 {
-  "RewardType":"Booster",
-   "Code":"PlsFixDataloss",
-   "Data":{
-            "Times":12,
-            "BoosterName":"Exp"
-           },
-   "AwardMessage":"Free Exp Boost for 3 HOURS!",
-   "ReedemOnce":true
+  {
+    "RewardType":"Booster",
+     "Code":"PlsFixDataloss",
+     "Data":{
+              "Times":12,
+              "BoosterName":"Exp"
+             },
+     "AwardMessage":"Free Exp Boost for 3 HOURS!",
+     "ReedemOnce":true
+  }
 }
