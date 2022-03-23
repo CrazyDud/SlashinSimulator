@@ -1,4 +1,4 @@
-[{
+[	{
 		"RewardType": "Booster",
 		"Code": "PlsFixDataloss",
 		"Data": {
@@ -6,6 +6,15 @@
 			"BoosterName": "Exp"
 		},
 		"AwardMessage": "Free Exp Boost for 3 HOURS!",
+		"ReedemOnce": true
+	},
+	{
+		"RewardType": "Egg",
+		"Code": "GatoIsNoob",
+		"Data": {
+			"Eggs": "FoodEgg",
+		},
+		"AwardMessage": "Yes I know, here is a burger though!",
 		"ReedemOnce": true
 	}
 ]
