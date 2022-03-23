@@ -12,7 +12,7 @@
 		"RewardType": "Egg",
 		"Code": "GatoIsNoob",
 		"Data": {
-			"Eggs": "FoodEgg",
+			"Eggs": "FoodEgg"
 		},
 		"AwardMessage": "Yes I know, here is a burger though!",
 		"ReedemOnce": true
