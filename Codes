@@ -1,4 +1,4 @@
-{
+[
   {
     "RewardType":"Booster",
      "Code":"PlsFixDataloss",
@@ -9,4 +9,4 @@
      "AwardMessage":"Free Exp Boost for 3 HOURS!",
      "ReedemOnce":true
   }
-}
+]
