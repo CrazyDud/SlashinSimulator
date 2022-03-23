@@ -8,5 +8,16 @@
              },
      "AwardMessage":"Free Exp Boost for 3 HOURS!",
      "ReedemOnce":true
-  }
+  },
+  
+  {
+    "RewardType":"Currency",
+     "Code":"TestCoins",
+     "Data":{
+              "Type":"Coins",
+              "Amount":5000000
+             },
+     "AwardMessage":"Free Coins!",
+     "ReedemOnce":true
+  },
 ]
