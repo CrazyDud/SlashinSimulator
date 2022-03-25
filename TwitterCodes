@@ -8,5 +8,16 @@
 		},
 		"AwardMessage": "Free Exp Boost for 3 HOURS!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "W3BOOST",
+		"Data": {
+			"Times": 3,
+			"BoosterName": "Coins"
+		},
+		"AwardMessage": "Free Coin Boost for 1 HOUR!",
+		"ReedemOnce": true
 	}
 ]
