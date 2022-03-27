@@ -19,5 +19,16 @@
 		},
 		"AwardMessage": "Free Coin Boost for 1 HOUR!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "COINSB",
+		"Data": {
+			"Times": 3,
+			"BoosterName": "Coins"
+		},
+		"AwardMessage": "Free Coin Boost for 1 HOUR!",
+		"ReedemOnce": true
 	}
 ]
