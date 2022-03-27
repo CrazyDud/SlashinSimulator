@@ -23,7 +23,7 @@
 	
 	{
 		"RewardType": "Booster",
-		"Code": "COINSB",
+		"Code": "COINB",
 		"Data": {
 			"Times": 3,
 			"BoosterName": "Coins"
