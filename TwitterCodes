@@ -30,5 +30,16 @@
 		},
 		"AwardMessage": "Free Coin Boost for 1 HOUR!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "ILoveBoosts",
+		"Data": {
+			"Times": 1,
+			"BoosterName": "All"
+		},
+		"AwardMessage": "Free Boosters!",
+		"ReedemOnce": true
 	}
 ]
