@@ -34,7 +34,7 @@
 	
 	{
 		"RewardType": "Booster",
-		"Code": "ILoveBoosts",
+		"Code": "ILoveAllBoosters",
 		"Data": {
 			"Times": 1,
 			"BoosterName": "All"
