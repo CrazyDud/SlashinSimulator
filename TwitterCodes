@@ -41,5 +41,16 @@
 		},
 		"AwardMessage": "Free Boosters!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "TITANS",
+		"Data": {
+			"Times": 6,
+			"BoosterName": "Coins"
+		},
+		"AwardMessage": "Free Coin Boost for 2 HOURS!",
+		"ReedemOnce": true
 	}
 ]
