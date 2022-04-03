@@ -52,5 +52,16 @@
 		},
 		"AwardMessage": "Free Coin Boost for 2 HOURS!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "RussoYT",
+		"Data": {
+			"Times": 4,
+			"BoosterName": "Exp"
+		},
+		"AwardMessage": "Free Exp Boost for 1 HOUR!",
+		"ReedemOnce": true
 	}
 ]
