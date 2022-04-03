@@ -7,4 +7,14 @@
 		"Multip": 2,
 		"Active": false
 	}
+	,
+	"Diamonds": {
+		"Multip": 2,
+		"Active": false
+	}
+	,
+	"SlashPoints": {
+		"Multip": 5,
+		"Active": true
+	}
 }
