@@ -1,0 +1,10 @@
+{
+	"Luck": {
+		"Multip": 3,
+		"Active": true
+	},
+	"Coins": {
+		"Multip": 2,
+		"Active": false
+	}
+}
