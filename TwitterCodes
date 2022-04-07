@@ -63,5 +63,16 @@
 		},
 		"AwardMessage": "Free Exp Boost for 1 HOUR!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "TradingGG",
+		"Data": {
+			"Times": 3,
+			"BoosterName": "Diamonds"
+		},
+		"AwardMessage": "Free Diamond Boost for 1 HOUR!",
+		"ReedemOnce": true
 	}
 ]
