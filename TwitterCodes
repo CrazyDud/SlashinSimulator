@@ -74,5 +74,16 @@
 		},
 		"AwardMessage": "Free Diamond Boost for 1 HOUR!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "ThankYou45k",
+		"Data": {
+			"Times": 2,
+			"BoosterName": "Exp"
+		},
+		"AwardMessage": "Free Exp Boost for 30 MINUTES!",
+		"ReedemOnce": true
 	}
 ]
