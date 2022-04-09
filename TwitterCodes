@@ -80,10 +80,10 @@
 		"RewardType": "Booster",
 		"Code": "ThankYou45k",
 		"Data": {
-			"Times": 2,
-			"BoosterName": "Exp"
+			"Times": 3,
+			"BoosterName": "All"
 		},
-		"AwardMessage": "Free Exp Boost for 30 MINUTES!",
+		"AwardMessage": "Free Boosters for 1 HOUR!!",
 		"ReedemOnce": true
 	}
 ]
