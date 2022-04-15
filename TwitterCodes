@@ -85,5 +85,16 @@
 		},
 		"AwardMessage": "Free Boosters for 1 HOUR!!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Currency",
+		"Code": "Uwu",
+		"Data": {
+			"Amount": 3000,
+			"Type": "Coins"
+		},
+		"AwardMessage": "Free Coins!!",
+		"ReedemOnce": true
 	}
 ]
