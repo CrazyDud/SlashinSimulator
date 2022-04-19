@@ -96,5 +96,16 @@
 		},
 		"AwardMessage": "Free Coins!!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "EnjoyTheGame",
+		"Data": {
+			"Times": 9,
+			"BoosterName": "All"
+		},
+		"AwardMessage": "Free Boosters for 3 HOURS!!!!!",
+		"ReedemOnce": true
 	}
 ]
