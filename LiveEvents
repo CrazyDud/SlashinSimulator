@@ -9,10 +9,10 @@
 	},
 	"Diamonds": {
 		"Multip": 2,
-		"Active": false
+		"Active": true
 	},
 	"SlashPoints": {
-		"Multip": 5,
-		"Active": false
+		"Multip": 3,
+		"Active": true
 	}
 }
