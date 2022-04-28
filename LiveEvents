@@ -14,5 +14,9 @@
 	"SlashPoints": {
 		"Multip": 3,
 		"Active": false
+	},
+	"Exp": {
+		"Multip": 2,
+		"Active": false
 	}
 }
