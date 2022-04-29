@@ -5,7 +5,7 @@
 	},
 	"Coins": {
 		"Multip": 3,
-		"Active": true
+		"Active": false
 	},
 	"Diamonds": {
 		"Multip": 3,
