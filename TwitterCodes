@@ -107,5 +107,16 @@
 		},
 		"AwardMessage": "Free Boosters for 3 HOURS!!!!!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "Woohoo80k",
+		"Data": {
+			"Times": 3,
+			"BoosterName": "All"
+		},
+		"AwardMessage": "Free Diamond Booster for 1 HOUR!!!!!",
+		"ReedemOnce": true
 	}
 ]
