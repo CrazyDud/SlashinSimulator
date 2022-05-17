@@ -118,5 +118,16 @@
 		},
 		"AwardMessage": "Free Boosters for 1 HOUR!!!!!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "Woohoo100k",
+		"Data": {
+			"Times": 6,
+			"BoosterName": "All"
+		},
+		"AwardMessage": "Free Boosters for 2 HOURS!!!!!",
+		"ReedemOnce": true
 	}
 ]
