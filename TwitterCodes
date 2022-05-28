@@ -129,5 +129,16 @@
 		},
 		"AwardMessage": "Free Boosters for 2 HOURS!!!!!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "Mettalico",
+		"Data": {
+			"Times": 3,
+			"BoosterName": "All"
+		},
+		"AwardMessage": "Free Boosters for 1 HOUR!!!!!",
+		"ReedemOnce": true
 	}
 ]
