@@ -144,7 +144,7 @@
 
 	{
 		"RewardType": "Currency",
-		"Code": "Jaiku",
+		"Code": "Sugoi",
 		"Data": {
 			"Amount": 5000,
 			"Type": "Diamonds"
