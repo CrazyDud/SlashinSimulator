@@ -140,5 +140,16 @@
 		},
 		"AwardMessage": "Free Boosters for 1 HOUR!!!!!",
 		"ReedemOnce": true
+	},
+
+	{
+		"RewardType": "Currency",
+		"Code": "Jaiku",
+		"Data": {
+			"Amount": 5000,
+			"Type": "Diamonds"
+		},
+		"AwardMessage": "Free Diamonds!!",
+		"ReedemOnce": true
 	}
 ]
