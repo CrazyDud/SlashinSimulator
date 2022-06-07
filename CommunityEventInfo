@@ -1,8 +1,9 @@
-"MilestoneRequirements" : {
-  "First" : 2500,
-  "Second" : 4000,
-  "Final" : 7500
-},
+{
+  "MilestoneRequirements": {
+    "First" : 2500,
+    "Second" : 4000,
+    "Final" : 7500
+  },
 
-"ExpireDate" : '14/06/2022';
-
+  "ExpireDate" : '14/06/2022';
+}
