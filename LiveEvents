@@ -17,6 +17,6 @@
 	},
 	"Exp": {
 		"Multip": 2,
-		"Active": true
+		"Active": false
 	}
 }
