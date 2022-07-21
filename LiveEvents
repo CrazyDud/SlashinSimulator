@@ -5,7 +5,7 @@
 	},
 	"Coins": {
 		"Multip": 3,
-		"Active": false
+		"Active": true
 	},
 	"Diamonds": {
 		"Multip": 3,
@@ -16,7 +16,7 @@
 		"Active": false
 	},
 	"Exp": {
-		"Multip": 2,
-		"Active": false
+		"Multip": 3,
+		"Active": true
 	}
 }
