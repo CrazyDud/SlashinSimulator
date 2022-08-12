@@ -1,6 +1,6 @@
 {
 	"Luck": {
-		"Multip": 3,
+		"Multip": 2,
 		"Active": false
 	},
 	"Coins": {
@@ -16,7 +16,7 @@
 		"Active": false
 	},
 	"Exp": {
-		"Multip": 5,
-		"Active": false
+		"Multip": 3,
+		"Active": true
 	}
 }
