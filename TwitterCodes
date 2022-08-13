@@ -162,5 +162,16 @@
 		},
 		"AwardMessage": "Free Exp Booster for 1 HOUR!!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "Woohoo200k",
+		"Data": {
+			"Times": 3,
+			"BoosterName": "Exp"
+		},
+		"AwardMessage": "Free Exp Booster for 1 HOUR!!",
+		"ReedemOnce": true
 	}
 ]
