@@ -173,5 +173,16 @@
 		},
 		"AwardMessage": "Free Exp Booster for 1 HOUR!!",
 		"ReedemOnce": true
+	},
+	
+	{
+		"RewardType": "Booster",
+		"Code": "Hooray50k",
+		"Data": {
+			"Times": 6,
+			"BoosterName": "Exp"
+		},
+		"AwardMessage": "Free Exp Booster for 2 HOUR!!",
+		"ReedemOnce": true
 	}
 ]
