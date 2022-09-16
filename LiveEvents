@@ -16,7 +16,7 @@
 		"Active": false
 	},
 	"Exp": {
-		"Multip": 5,
-		"Active": false
+		"Multip": 2,
+		"Active": true
 	}
 }
